@@ -45,7 +45,7 @@ export const PortfolioHeroSection = ({handleNavLinkClick}:{handleNavLinkClick:(v
       <div className="md:w-1/2 mt-12 md:mt-0 flex justify-center">
         <div className="w-64 h-64 md:w-96 md:h-96 rounded-full bg-indigo-500/10 p-2 backdrop-blur-lg">
           <div className="w-full h-full rounded-full overflow-hidden border-4 border-indigo-500/30">
-            <img src="/api/placeholder/400/400" alt="Sosthène Mounsamboté" className="w-full h-full object-cover" />
+            <img src="https://iili.io/3AMF6tp.jpg" alt="Sosthène Mounsamboté" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>

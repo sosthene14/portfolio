@@ -117,7 +117,6 @@ const ContactForm = () => {
   const handleSubmit = async (e: { preventDefault: () => void; }) => {
     e.preventDefault();
     const res = await submitEmail(formData)
-    console.log('Données du formulaire:', res);
 
     if (res){
       setFormData({

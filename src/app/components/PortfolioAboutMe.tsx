@@ -67,7 +67,7 @@ export const PortfolioAboutMe = ({handleNavLinkClick}:{handleNavLinkClick:(value
             </button>
             <a 
             target="_blank"
-              href="src/app/assets/cv.pdf"
+              href="https://drive.google.com/file/d/1-XEPsS4Gde1Lzq0ZuBZk8tecBX6P5zV1/view?usp=sharing"
               className="px-6 py-3 bg-gray-100 hover:bg-gray-200 rounded-lg text-gray-800 font-medium transition-colors flex items-center"
             >
               <BookOpen size={18} className="mr-2" />
