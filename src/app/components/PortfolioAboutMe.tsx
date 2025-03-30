@@ -12,7 +12,7 @@ export const PortfolioAboutMe = ({handleNavLinkClick}:{handleNavLinkClick:(value
         <div className="md:w-1/2 mb-12 md:mb-0">
           <div className="relative">
             <div className="w-full max-w-md h-96 bg-gray-200 rounded-lg relative z-10">
-              <img src="src/app/assets/moi.jpg" alt="Sosthène Mounsamboté" className="w-full h-full object-cover rounded-lg shadow-lg" />
+              <img src="https://iili.io/3AMF6tp.jpg" alt="Sosthène Mounsamboté" className="w-full h-full object-cover rounded-lg shadow-lg" />
             </div>
             <div className="absolute top-10 -left-10 w-full h-full bg-indigo-600 rounded-lg -z-10"></div>
             <div className="absolute bottom-10 -right-10 w-64 h-64 bg-indigo-200 rounded-full -z-10"></div>

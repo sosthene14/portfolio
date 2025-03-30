@@ -43,7 +43,7 @@ export const experiences = [
       title: "La Nuit des Étoiles",
       description: "Application de vote développée pour l'événement 'La Nuit des Étoiles' en 2025. Implémentation d'une interface intuitive et d'un système de vote sécurisé.",
       technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
-      image: "src/app/assets/continental.png",
+      image: "https://iili.io/3AMFioN.png",
       url: "https://www.continentalaf.com/"
     },
     {
@@ -51,7 +51,7 @@ export const experiences = [
       title: "UniDocs",
       description: "Application de gestion documentaire pour mon école. Système d'organisation, de recherche et de partage de documents avec gestion des droits d'accès.",
       technologies: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Tailwind CSS"],
-      image: "src/app/assets/image.png",
+      image: "https://iili.io/3AMFgHJ.png",
       url: "https://unidocs.vercel.app/"
     },
     {
@@ -59,14 +59,14 @@ export const experiences = [
       title: "ROCOLIS",
       description: "Plateforme innovante de logistique collaborative entre voyageurs et expéditeurs, permettant une réduction des coûts de livraison de 15% pour les utilisateurs.",
       technologies: ["MongoDB", "React", "Flask", "Python", "Bootstrap"],
-      image: "src/app/assets/image copy.png"
+      image: "https://iili.io/3AMFrAv.png"
     },
     {
       id: 4,
       title: "Kubernetes Deployment Platform",
       description: "Mise en place d'environnements de développement avec Minikube et déploiement d'applications conteneurisées sur Kubernetes.",
       technologies: ["Kubernetes", "Docker", "Minikube", "CI/CD", "Shell Scripting"],
-      image: "src/app/assets/image copy 2.png"
+      image: "https://iili.io/3AMFSSa.png"
     }
   ];
 
